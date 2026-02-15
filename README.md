@@ -47,6 +47,6 @@ You will work on multiple datasets including **Customer Purchase Data**, **Movie
 
 1. **Clone the repository**:  
 
-git clone <repository-url>](https://github.com/tyhan-data/pandas_7Day_practiced-.git)
+(https://github.com/tyhan-data/Pandas-7-Day-Bootcamp.git)
 
 
