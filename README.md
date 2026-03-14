@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)  
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)  
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ---
 
@@ -47,6 +46,6 @@ You will work on multiple datasets including **Customer Purchase Data**, **Movie
 
 1. **Clone the repository**:  
 
-(https://github.com/tyhan-data/Pandas-7-Day-Bootcamp.git)
+(https://github.com/tyhan-data/Pandas-7-Day-Bootcamp-with-missing-value-handling.git)
 
 
